@@ -1,1 +1,4 @@
-# Tue_26439_RetailI-nventor-Management_DB
+Name : NIYONKURU Arnold  
+id: 26439  
+RETAIL AND INVETORY MANAGMENT SYSTEM
+---
