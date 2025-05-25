@@ -7,5 +7,6 @@ RETAIL AND INVETORY MANAGMENT SYSTEM
 ![image](https://github.com/niyonkuruarnold/Tue_26439_Retail_Inventor-Management_DB/blob/main/function.png?raw=true)
 ![image](https://github.com/niyonkuruarnold/Tue_26439_Retail_Inventor-Management_DB/blob/main/procedure.png?raw=true)
 ![image](https://github.com/niyonkuruarnold/Tue_26439_Retail_Inventor-Management_DB/blob/main/trigger.png?raw=true)
+![image](https://github.com/niyonkuruarnold/Tue_26439_Retail_Inventor-Management_DB/blob/main/audit%20log.png?raw=true)
 
 
